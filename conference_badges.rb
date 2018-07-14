@@ -13,4 +13,6 @@ end
 
 def assign_rooms ()
   new array = []
-  room_assignments = assign_rooms(attendees)
+  counter = 1
+  counter += 1
+  
