@@ -13,4 +13,4 @@ end
 
 def assign_rooms
   new_array = []
-  
+  room_assignments +=1
