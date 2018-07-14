@@ -11,6 +11,6 @@ def batch_badge_creator(array)
 end
 
 
-def assign_rooms (array_1, array_2)
+def assign_rooms ()
   new array = []
-  
+  assign_rooms = ["#{attendees}"]
