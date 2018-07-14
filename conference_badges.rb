@@ -13,4 +13,5 @@ end
 
 def assign_rooms
   new_array = []
-  
+  array.each do |name, room_assignments|
+    
