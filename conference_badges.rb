@@ -13,4 +13,4 @@ end
 
 def assign_rooms ()
   new array = []
-  assign_rooms = ["#{attendees}"]
+  room_assignments = assign_rooms(attendees)
