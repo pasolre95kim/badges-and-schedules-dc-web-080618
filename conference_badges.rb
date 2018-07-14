@@ -3,5 +3,6 @@ def badge_maker(name)
 end
 
 def batch_badge_creator(names)
-  return batch_badge_creator
+  return "Hello, my name is #{names}"
+  
 end
